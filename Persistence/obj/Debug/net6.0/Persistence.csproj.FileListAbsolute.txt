@@ -1,0 +1,15 @@
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/bin/Debug/net6.0/Domain.dll
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/bin/Debug/net6.0/Domain.pdb
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/Persistence.pdb
+/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/Debug/net6.0/ref/Persistence.dll
