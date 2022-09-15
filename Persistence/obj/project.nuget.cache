@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5BlnFJBy0p+uYnnMdsc3Dy0R+jnNFhL8fkNsJ/oEnMXf6RxRvkksmF+cYMW8v4OTJmOW6lMzFea8yNJD8rfkCQ==",
+  "dgSpecHash": "7G2/M8xgdPlN7TLWfQLxyWqmrg+ZMiOQqlYgR90KJaiKBJkW3bGmx9IdhB/Mq5WveSheKWDHQLrwgrSp/ZxTGQ==",
   "success": true,
-  "projectFilePath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/Persistence.csproj",
+  "projectFilePath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Persistence/Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

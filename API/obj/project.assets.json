@@ -282,11 +282,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/API/API.csproj",
+      "projectUniqueName": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/API/API.csproj",
+      "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/API/API.csproj",
       "packagesPath": "/Users/emmanuelalvarezlara/.nuget/packages/",
-      "outputPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/API/obj/",
+      "outputPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emmanuelalvarezlara/.nuget/NuGet/NuGet.Config"
@@ -301,8 +301,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Application/Application.csproj": {
-              "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Application/Application.csproj"
+            "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Application/Application.csproj": {
+              "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Application/Application.csproj"
             }
           }
         }

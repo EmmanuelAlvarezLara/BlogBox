@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/Persistence.csproj",
+      "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Persistence/Persistence.csproj",
       "packagesPath": "/Users/emmanuelalvarezlara/.nuget/packages/",
-      "outputPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Persistence/obj/",
+      "outputPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emmanuelalvarezlara/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Domain/Domain.csproj": {
-              "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Domain/Domain.csproj"
+            "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Domain/Domain.csproj": {
+              "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Domain/Domain.csproj"
             }
           }
         }

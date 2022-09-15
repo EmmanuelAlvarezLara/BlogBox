@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Domain/Domain.csproj": {}
+    "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Domain/Domain.csproj": {
+    "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Domain/Domain.csproj",
+        "projectPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Domain/Domain.csproj",
         "packagesPath": "/Users/emmanuelalvarezlara/.nuget/packages/",
-        "outputPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/Domain/obj/",
+        "outputPath": "/Users/emmanuelalvarezlara/code/matc/itdev162/Emmanuel-AlvarezLara/BlogBox/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emmanuelalvarezlara/.nuget/NuGet/NuGet.Config"
